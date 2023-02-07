@@ -55,8 +55,8 @@
 
 <h1>Portfolio</h1>
 
-<h3><a src="https://github.com/Poltia/EtherSacn">Ether Scan 페이지 구현</a></h3>
-<h3><a src="https://github.com/Poltia/ReactProject">React 기반 항공사 페이지 구현</a></h3>
+<h3><a>[Ether Scan 페이지 구현](https://github.com/Poltia/EtherScan)</h3>
+<h3><a>[React 기반 항공사 페이지 구현](https://github.com/Poltia/ReactProject)</a></h3>
 <h3><a src=""></a></h3>
 
 </div>
