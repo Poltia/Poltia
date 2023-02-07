@@ -56,7 +56,11 @@
 <h1>Portfolio</h1>
 
 ### [Ether Scan 페이지 구현](https://github.com/Poltia/EtherScan)
-### [React 기반 항공사 페이지 구현](https://github.com/Poltia/ReactProject)
+: React기반으로 Go-Ethereum을 활용해서 블록 생성 및 조회, 트랜잭션 조회 구현
+<br/><br/>
+
+### [React 개인 프로젝트](https://github.com/Poltia/ReactProject)
+: React 기반 항공사 페이지 구현
 
 
 </div>
