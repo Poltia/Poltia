@@ -33,9 +33,11 @@
 &nbsp;<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>&nbsp;
 &nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp;
 &nbsp;<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white"/>&nbsp;
-</p>
-<p>
 &nbsp;<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white"/>&nbsp;
+</p>
+
+<p>
+&nbsp;<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=Nodemon&logoColor=white"/>&nbsp;
 &nbsp;<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=Socket.io&logoColor=white"/>&nbsp;
 &nbsp;<img src="https://img.shields.io/badge/json_web_token-52B0E7?style=flat&logo=JsonWebTokens&logoColor=white"/>&nbsp;
 &nbsp;<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=Web3.js&logoColor=white"/>&nbsp;
