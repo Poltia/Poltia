@@ -2,9 +2,11 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=poltia&show_icons=true&theme=github_dark)
 
-<p></p>
+<br/><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poltia&layout=compact&theme=github_dark)
+
+<br/><br/>
 
 <h3>🔥 Tech Stacks 🔥</h3>
 
@@ -53,9 +55,9 @@
 
 #
 
-#
+<br/>
 
-<h1>Portfolio</h1>
+# Portfolio
 
 ### [Ether Scan 페이지 구현](https://github.com/Poltia/EtherScan)
 
@@ -70,6 +72,8 @@
 ### [Node Project(team)](https://github.com/Poltia/node_project)
 
 : three.js를 사용해 술래잡기 게임 구현
+
+#
 
 </div>
 
