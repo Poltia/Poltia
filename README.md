@@ -68,7 +68,7 @@
 
 ### [React 개인 프로젝트](https://github.com/Poltia/ReactProject)
 
-: React 기반 항공사 페이지 구현
+: React 기반 여행사 페이지 구현
 <br/><br/>
 
 ### [Node Project(team)](https://github.com/Poltia/node_project)
